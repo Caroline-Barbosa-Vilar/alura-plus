@@ -8,3 +8,6 @@ body {
   background-color: var(--background-black);
   color: var(--white);
 }
+.container {
+  height: 100vh;
+}
