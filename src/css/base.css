@@ -6,4 +6,5 @@
 }
 body {
   background-color: var(--background-black);
+  color: var(--white);
 }
