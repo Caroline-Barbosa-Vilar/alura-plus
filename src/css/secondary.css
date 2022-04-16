@@ -1,0 +1,16 @@
+.secondary {
+  align-items: center;
+  margin: 0 10em;
+}
+.secondary__image {
+  width: 80%;
+}
+.description__title {
+  font-weight: 700;
+  font-size: 48px;
+  color: var(--white);
+  margin-bottom: .1em;
+}
+.description__text {
+  color: var(--gray);
+}
