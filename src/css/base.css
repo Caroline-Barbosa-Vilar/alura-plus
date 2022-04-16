@@ -3,6 +3,8 @@
   --gray: #C0C0C0;
   --blue: #167BF7;
   --background-black: #00030C;
+
+  --inter: 'Inter', sans-serif;
 }
 body {
   background-color: var(--background-black);
