@@ -9,6 +9,7 @@
 body {
   background-color: var(--background-black);
   color: var(--white);
+  font: 400 16px var(--inter);
 }
 .container {
   height: 100vh;
