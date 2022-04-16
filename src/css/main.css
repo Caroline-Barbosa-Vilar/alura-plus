@@ -2,6 +2,18 @@
   background-image: url(../img/Background.png);
   background-repeat: no-repeat;
   background-size: contain;
+  align-items: center;
+  text-align: center;
+}
+.container__box {
+ margin: 6em;
+}
+.container__title {
+  font-weight: 700;
+  font-size: 28px;
+}
+.container__image {
+  margin: 1em 0 2em 0;
 }
 .container__button {
   background-color: var(--blue);
@@ -9,8 +21,13 @@
   padding: 1rem;
   color: var(--white);
   display: block;
+  margin-bottom: 1em;
 }
 .second__button {
   background-color: transparent;
   border: 2px solid var(--white);
+}
+.container__warning {
+  font-size: 12px;
+  color: var(--gray);
 }
