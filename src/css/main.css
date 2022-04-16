@@ -1,0 +1,16 @@
+.main {
+  background-image: url(../img/Background.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.container__button {
+  background-color: var(--blue);
+  border-radius: 5px;
+  padding: 1rem;
+  color: var(--white);
+  display: block;
+}
+.second__button {
+  background-color: transparent;
+  border: 2px solid var(--white);
+}
