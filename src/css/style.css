@@ -3,6 +3,7 @@
 @import url(secondary.css);
 @import url(third.css);
 @import url(devices.css);
+@import url(footer.css);
 
 .secondary, .fourth {
   align-items: center;
