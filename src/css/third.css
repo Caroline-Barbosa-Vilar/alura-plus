@@ -1,0 +1,12 @@
+.third {
+  align-items: center;
+  margin: 0 10em;
+}
+.container__button--third {
+  background-color: var(--blue);
+  border-radius: 5px;
+  padding: 1rem;
+  color: var(--white);
+  display: inline-block;
+  margin: 1em 0;
+}
