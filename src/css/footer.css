@@ -1,0 +1,9 @@
+.footer {
+
+}
+.footer__logo {
+  margin: 145px 0 40px 669px;
+}
+.footer__list {
+  display: flex;
+}
