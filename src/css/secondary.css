@@ -13,4 +13,5 @@
 }
 .description__text {
   color: var(--gray);
+  line-height: 2em;
 }
