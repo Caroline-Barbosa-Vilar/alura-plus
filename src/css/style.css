@@ -2,7 +2,7 @@
 @import url(main.css);
 @import url(secondary.css);
 @import url(third.css);
-@import url(fourth.css);
+@import url(devices.css);
 
 .secondary, .fourth {
   align-items: center;
