@@ -7,7 +7,7 @@ This is the landing page of 'Alura plus', containing the information of each pla
 <div align='center'>
   <figure>
     <a href='https://bo83dev.github.io/alura-plus/' target='_blank'>
-      <img src='./src/img/alura-plus-header-screenshot.png' target="_blank">
+      <img src='./src/alura-plus-header-screenshot.png' target="_blank">
     </a>
   </figure>
 </div>
@@ -28,15 +28,15 @@ This page was developed during the course 'HTML e CSS: praticando HTML/CSS' at [
 
 Mobile
 
-<img src="./src/img/alura-plus-mobile-screen.gif" alt="Alura plus mobile screen gif">
+<img src="./src/alura-plus-mobile-screen.gif" alt="Alura plus mobile screen gif">
 
 Tablet 
 
-<img src="./src/img/alura-plus-tablet-screen.gif" alt="Alura plus desktop screen gif">
+<img src="./src/alura-plus-tablet-screen.gif" alt="Alura plus desktop screen gif">
 
 Desktop 
 
-<img src="./src/img/alura-plus-desktop-screen.gif" alt="Alura plus desktop screen gif">
+<img src="./src/alura-plus-desktop-screen.gif" alt="Alura plus desktop screen gif">
 
 ---
 
