@@ -21,9 +21,12 @@ Você pode [acessar o código fonte do projeto](https://bo83dev.github.io/alura-
 
 This is the landing page of 'Alura plus', containing the information of each plan, values and how to subscribe to each or all of them.
 
+## Access the Project
+
 <div align='center'>
   <figure>
-    <a href='https://bo83dev.github.io/alura-plus/' target='_blank'>
+    <a>
+		You can [access the project here](https://bo83dev.github.io/alura-plus) 
       <img src='./src/alura-plus-header-screenshot.png' target="_blank">
     </a>
   </figure>
