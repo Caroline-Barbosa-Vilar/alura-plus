@@ -14,6 +14,10 @@ _Para a versão em Português, clique [aqui](#portuguese)._
 
 
 
+## Access the Project
+
+Você pode [acessar o código fonte do projeto](https://bo83dev.github.io/alura-plus) 
+
 
 This is the landing page of 'Alura plus', containing the information of each plan, values and how to subscribe to each or all of them.
 
