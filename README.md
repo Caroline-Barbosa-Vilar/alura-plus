@@ -2,8 +2,6 @@
 
 _Para a versão em Português, clique [aqui](#portuguese)._
 
-<hr>
-
 <p align="center">
    <img src="http://img.shields.io/static/v1?label=STATUS&message=DEVELOPING&color=yellow&style=for-the-badge"/>
 </p>
@@ -55,8 +53,6 @@ Desktop
 ---
 
 <div id="portuguese">
-
-<hr>
 
 <p align="center">
    <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=yellow&style=for-the-badge"/>  //badge em desenvolvimento
