@@ -17,7 +17,7 @@ _Para a versão em Português, clique [aqui](#portuguese)._
 <div align='center'>
   <figure>
     <a href='https://bo83dev.github.io/alura-plus' target='_blank'>
-      <img src='link da página'></a>
+      <img src='src/alura-plus-header-screenshot.png'></a>
 	  <figcaption>Click on the image to access the site</figcaption>
   </figure>
 </div>
