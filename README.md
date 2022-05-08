@@ -14,7 +14,7 @@ _Para a versão em Português, clique [aqui](#portuguese)._
 
 ## Access the Project
 
-<p>You can access the project <a href='https://bo83dev.github.io/alura-plus' target='_blank'>here</a></p>
+<a href='https://bo83dev.github.io/alura-plus' target='_blank'>
 
 
 ## Project description
