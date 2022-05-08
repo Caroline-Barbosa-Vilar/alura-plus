@@ -5,7 +5,7 @@ _Para a versão em Português, clique [aqui](#portuguese)._
 <hr>
 
 <p align="center">
-  <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DEVELOPING&color=blue&style=for-the-badge"/> 
+  <img src="http://img.shields.io/static/v1?label=STATUS&message=UNDER%20CONSTRUCTION&color=yellow&style=for-the-badge"/> 
 </p>
 
 This is the landing page of 'Alura plus', containing the information of each plan, values and how to subscribe to each or all of them.
