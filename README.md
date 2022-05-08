@@ -18,9 +18,7 @@ _Para a versão em Português, clique [aqui](#portuguese)._
 
 
 <div align='center'>
-  <figure>
     <a href='https://bo83dev.github.io/alura-plus/' target='_blank'></a>
-  </figure>
 </div>
 
 
