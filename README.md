@@ -20,7 +20,7 @@ _Para a versão em Português, clique [aqui](#portuguese)._
       <img src='link da página'></a>
 	  <figcaption>Click on the image to access the site</figcaption>
   </figure>
-
+</div>
 
 ## Project description
 
