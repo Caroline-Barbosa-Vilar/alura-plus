@@ -26,7 +26,7 @@ This is the landing page of 'Alura plus', containing the information of each pla
 </div>
 
 
-## Overview
+## Project description
 
 This page was developed during the course 'HTML e CSS: praticando HTML/CSS' at [Alura](https://www.alura.com.br) technology school.
 
