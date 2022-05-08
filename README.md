@@ -8,6 +8,13 @@ _Para a versão em Português, clique [aqui](#portuguese)._
   <img src="http://img.shields.io/static/v1?label=STATUS&message=UNDER%20CONSTRUCTION&color=yellow&style=for-the-badge"/> 
 </p>
 
+### Topics
+
+- [Project description](#´project-description)
+
+
+
+
 This is the landing page of 'Alura plus', containing the information of each plan, values and how to subscribe to each or all of them.
 
 <div align='center'>
