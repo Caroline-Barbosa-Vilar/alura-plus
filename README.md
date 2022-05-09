@@ -1,6 +1,11 @@
-# Alura Plus
+<h1 align='center'> Alura Plus </h1> 
+
+
+<img src="./src/alura-plus-header-screenshot.png" alt="The Alura plus ">
 
 _Para a versão em Português, clique [aqui](#portuguese)._
+
+
 
 <p align="center">
    <img src="http://img.shields.io/static/v1?label=STATUS&message=DEVELOPING&color=yellow&style=for-the-badge"/>
