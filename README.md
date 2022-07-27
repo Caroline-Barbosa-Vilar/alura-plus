@@ -1,16 +1,17 @@
-<h1 align='center'> Alura Plus </h1> 
+<p align='center'><img src="./src/alura-plus-header-screenshot.png" alt="The Alura plus "></p>
 
+<h1 align='center'> Alura Plus </h1>
 
-<img src="./src/alura-plus-header-screenshot.png" alt="The Alura plus ">
+<div align='center'>
+   <a href="https://github.com/Caroline-Barbosa-Vilar/alura-plus/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/Caroline-Barbosa-Vilar/alura-plus"></a>
+	<a href="https://github.com/Caroline-Barbosa-Vilar/alura-plus/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/Caroline-Barbosa-Vilar/alura-plus"></a>
+	<a href="https://github.com/Caroline-Barbosa-Vilar/alura-plus/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/Caroline-Barbosa-Vilar/alura-plus"></a>
+</div>
+
 
 _Para a versão em Português, clique [aqui](#portuguese)._
 
-
-
-<p align="center">
-   <img src="http://img.shields.io/static/v1?label=STATUS&message=DEVELOPING&color=yellow&style=for-the-badge"/>
-</p>
-
+<br>
 
 ### Topics
 
@@ -18,8 +19,11 @@ _Para a versão em Português, clique [aqui](#portuguese)._
 
 - [Technologies used](#technologies-used)
 
+- [What I learned](#what-I-learned)
+
 - [Access the Project](#access-the-project)
 
+<br>
 
 ## Project description
 
@@ -29,6 +33,7 @@ This is the landing page of 'Alura plus', containing the information of each pla
 This page was developed during the course 'HTML e CSS: praticando HTML/CSS' at [Alura](https://www.alura.com.br) technology school.
 </p>
 
+<br>
 
 ## Technologies used
 
@@ -37,31 +42,38 @@ This page was developed during the course 'HTML e CSS: praticando HTML/CSS' at [
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </div>
 
+<br>
+
+## What I learned
+
+- Identify elements and styles using Figma;
+- Deploy a site via Github Pages or Vercel.
+
+
+<br>
 
 ## Access the Project
 
-You can [access the project here](https://bo83dev.github.io/alura-plus) 
-
-
-Mobile
-
-<img src="./src/alura-plus-mobile-screen.gif" alt="Alura plus mobile screen gif">
-
-Tablet 
-
-<img src="./src/alura-plus-tablet-screen.gif" alt="Alura plus desktop screen gif">
+You can [access the project here](https://caroline-barbosa-vilar.github.io/alura-plus/) 
 
 Desktop 
 
 <img src="./src/alura-plus-desktop-screen.gif" alt="Alura plus desktop screen gif">
 
----
+<br>
 
 <div id="portuguese">
 
-<p align="center">
-   <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=yellow&style=for-the-badge"/>
-</p>
+
+<h1 align='center'> Alura Plus </h1>
+
+<div align='center'>
+   <a href="https://github.com/Caroline-Barbosa-Vilar/alura-plus/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/Caroline-Barbosa-Vilar/alura-plus"></a>
+	<a href="https://github.com/Caroline-Barbosa-Vilar/alura-plus/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/Caroline-Barbosa-Vilar/alura-plus"></a>
+	<a href="https://github.com/Caroline-Barbosa-Vilar/alura-plus/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/Caroline-Barbosa-Vilar/alura-plus"></a>
+</div>
+
+<br>
 
 ### Tópicos 
 
@@ -69,7 +81,11 @@ Desktop
 
 - [Tecnologias utilizadas](#tecnologias-utilizadas)
 
+- [O que aprendi](#o-que-aprendi)
+
 - [Acesse o projeto](#acesse-o-projeto)
+
+<br>
 
 ## Descrição do projeto 
 
@@ -79,6 +95,8 @@ Essa é a 'landing page' do 'Alura plus', contento as informações de cada plan
 Essa página foi desenvolvida durante o curso de 'HTML e CSS: praticando HTML/CSS' da escola de tecnologia [Alura](https://www.alura.com.br).
 </p>
 
+<br>
+
 ## Tecnologias utilizadas
 
 <div>
@@ -86,18 +104,25 @@ Essa página foi desenvolvida durante o curso de 'HTML e CSS: praticando HTML/CS
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </div>
 
+<br>
+
+## O que aprendi
+
+- Identifique elementos e estilos através do Figma;
+- Realize o deploy de um site através do Github Pages ou Vercel.
+
+<br>
+
 ## Acesse o projeto
 
-Você pode [acessar o projeto aqui](https://bo83dev.github.io/alura-plus) 
+Você pode [acessar o projeto aqui](https://caroline-barbosa-vilar.github.io/alura-plus/) 
 
-Mobile
-
-<img src="./src/alura-plus-mobile-screen.gif" alt="Alura plus mobile screen gif">
-
-Tablet 
-
-<img src="./src/alura-plus-tablet-screen.gif" alt="Alura plus desktop screen gif">
 
 Desktop 
 
 <img src="./src/alura-plus-desktop-screen.gif" alt="Alura plus desktop screen gif">
+
+<br>
+<hr>
+
+Developed with 🧡 by [me](https://www.linkedin.com/in/carolinebarbosavilar/)!
