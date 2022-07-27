@@ -1,9 +1,25 @@
 .footer {
-
+  text-align: center;
+  margin: 0 3rem;
 }
 .footer__logo {
-  margin: 145px 0 40px 669px;
+  margin-bottom: 2rem;
 }
 .footer__list {
+  width: 80%;
+  margin: 0 auto;
   display: flex;
+  justify-content: space-between;
+}
+.footer__list a {
+  color: var(--white);
+}
+.footer__list a:hover {
+  color: var(--blue);
+}
+.footer__list a:active {
+  color: var(--active);
+}
+.footer__text {
+  margin: 2rem 0;
 }

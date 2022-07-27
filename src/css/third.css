@@ -10,3 +10,6 @@
   display: inline-block;
   margin: 1em 0;
 }
+.container__button--third:active {
+  background-color: var(--active);
+}

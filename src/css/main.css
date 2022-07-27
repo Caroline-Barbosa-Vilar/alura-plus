@@ -23,6 +23,9 @@
   display: block;
   margin-bottom: 1em;
 }
+.container__button:active {
+  background-color: var(--active);
+}
 .second__button {
   background-color: transparent;
   border: 2px solid var(--white);
